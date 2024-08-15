@@ -1,0 +1,3 @@
+echo Executing console...
+cd ../../console
+gnome-terminal -x bash -c './console ../scripts/2-resources/TEST_1; exec bash'

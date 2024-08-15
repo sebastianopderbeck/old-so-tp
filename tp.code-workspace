@@ -1,0 +1,41 @@
+{
+	"settings": {
+		"debug.onTaskErrors": "abort",
+		"files.associations": {
+			"*.h": "c",
+		},
+		"C_Cpp.errorSquiggles": "disabled",
+	},
+	"folders": [
+		{
+			"path": "kernel"
+		},
+		{
+			"path": "cpu"
+		},
+		{
+			"path": "utils"
+		},
+		{
+			"path": "console"
+		},
+		{
+			"path": "io"
+		},
+		{
+			"path": "old"
+		},
+		{
+			"path": "scripts"
+		},
+		{
+			"path": "shared"
+		},
+		{
+			"path": "test"
+		},
+		{
+			"path": "memory"
+		}
+	]
+}
